@@ -1,0 +1,4 @@
+import random
+print("First Project")
+value = random.randint(1,10000)
+print(value)
