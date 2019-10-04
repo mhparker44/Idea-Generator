@@ -8,5 +8,6 @@ with open('words.csv', newline='') as csvfile:
 
 print ('Here are 5 words')
 print(random.sample(data,k=5))
-print(update)
+
+
   
